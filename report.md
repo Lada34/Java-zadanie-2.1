@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены дефекты:
 
-* <https://github.com/Lada34/Java-zadanie-2.1/issues/1#issue-782126267>
+* [Некорректно формируется строка total при сложении операндов.](https://github.com/Lada34/Java-zadanie-2.1/issues/1#issue-782126267)
 
 # Описание процесса тестирования
 
